@@ -2,4 +2,8 @@
 // "Something went wrong, please try again" in the paragraph
 // that has the id="error".
 
+let errorMsg = document.getElementById("error")
+function tryAgain(){
+    errorMsg.textContent = "Something went wrong, please try again"
+}
 
