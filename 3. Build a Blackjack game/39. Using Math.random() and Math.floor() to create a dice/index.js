@@ -5,7 +5,7 @@ console.log(randomNumber)
 /* 
 
 Write down all the possible values randomNumber can hold now!
-
+From 0 to 6 (not included)
  
 
 

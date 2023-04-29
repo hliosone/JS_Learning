@@ -1,4 +1,4 @@
-let firstCard = 10
+let firstCard = getRandomCard()
 let secondCard = 4
 let cards = [firstCard, secondCard]
 let sum = firstCard + secondCard
