@@ -13,3 +13,7 @@ let experience = ["CEO at Scrimba", "Frontend developer at Xeneta", "People coun
 // Frontend developer at Xeneta
 // People counter for Norstat
 // CEO at Scrimba
+
+for(i = 0; i < 3; ++i){
+    console.log(experience[i])
+}
