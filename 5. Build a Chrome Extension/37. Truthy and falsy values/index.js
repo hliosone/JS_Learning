@@ -17,7 +17,6 @@
 // NaN
 
 let currentViewers = null
-
 currentViewers = ["jane", "nick"]
 
 currentViewers = null
