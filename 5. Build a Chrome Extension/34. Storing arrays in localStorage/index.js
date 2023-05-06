@@ -1,4 +1,10 @@
-let myLeads = ["www.awesomelead.com"]
+let myLeads = `["www.awesomelead.com"]`
+
+myLeads = JSON.parse(myLeads)
+console.log(typeof myLeads)
+myLeads.push("www.ethereum.org")
+myLeads = JSON.stringify(myLeads)
+console.log(typeof myLeads)
 
 
 
