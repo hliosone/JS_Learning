@@ -18,7 +18,7 @@ tabBtn.addEventListener("click", function(){
         render(myLeads)
     })
 })
-
+//
 function render(leads) {
     let listItems = ""
     for (let i = 0; i < leads.length; i++) {
